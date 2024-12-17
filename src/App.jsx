@@ -1,5 +1,5 @@
 import Hero from "./components/Hero";
-import Internships from "./components/internship";
+import Internships from "./components/Internships";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
